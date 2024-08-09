@@ -1,0 +1,14 @@
+C:\Users\ysefa\source\repos\Hafta4KapanisPratigi\Hafta4KapanisPratigi\bin\Debug\net8.0\Hafta4KapanisPratigi.exe
+C:\Users\ysefa\source\repos\Hafta4KapanisPratigi\Hafta4KapanisPratigi\bin\Debug\net8.0\Hafta4KapanisPratigi.deps.json
+C:\Users\ysefa\source\repos\Hafta4KapanisPratigi\Hafta4KapanisPratigi\bin\Debug\net8.0\Hafta4KapanisPratigi.runtimeconfig.json
+C:\Users\ysefa\source\repos\Hafta4KapanisPratigi\Hafta4KapanisPratigi\bin\Debug\net8.0\Hafta4KapanisPratigi.dll
+C:\Users\ysefa\source\repos\Hafta4KapanisPratigi\Hafta4KapanisPratigi\bin\Debug\net8.0\Hafta4KapanisPratigi.pdb
+C:\Users\ysefa\source\repos\Hafta4KapanisPratigi\Hafta4KapanisPratigi\obj\Debug\net8.0\Hafta4KapanisPratigi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ysefa\source\repos\Hafta4KapanisPratigi\Hafta4KapanisPratigi\obj\Debug\net8.0\Hafta4KapanisPratigi.AssemblyInfoInputs.cache
+C:\Users\ysefa\source\repos\Hafta4KapanisPratigi\Hafta4KapanisPratigi\obj\Debug\net8.0\Hafta4KapanisPratigi.AssemblyInfo.cs
+C:\Users\ysefa\source\repos\Hafta4KapanisPratigi\Hafta4KapanisPratigi\obj\Debug\net8.0\Hafta4KapanisPratigi.csproj.CoreCompileInputs.cache
+C:\Users\ysefa\source\repos\Hafta4KapanisPratigi\Hafta4KapanisPratigi\obj\Debug\net8.0\Hafta4KapanisPratigi.dll
+C:\Users\ysefa\source\repos\Hafta4KapanisPratigi\Hafta4KapanisPratigi\obj\Debug\net8.0\refint\Hafta4KapanisPratigi.dll
+C:\Users\ysefa\source\repos\Hafta4KapanisPratigi\Hafta4KapanisPratigi\obj\Debug\net8.0\Hafta4KapanisPratigi.pdb
+C:\Users\ysefa\source\repos\Hafta4KapanisPratigi\Hafta4KapanisPratigi\obj\Debug\net8.0\Hafta4KapanisPratigi.genruntimeconfig.cache
+C:\Users\ysefa\source\repos\Hafta4KapanisPratigi\Hafta4KapanisPratigi\obj\Debug\net8.0\ref\Hafta4KapanisPratigi.dll
